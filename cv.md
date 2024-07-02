@@ -2,7 +2,7 @@
 ## Future Junior Frontend Developer
 ## Contacts
 •	Location: Belarus, Minsk
-•	Phone: +375 29 812-15-75
+•	Phone: +37529812-15-75
 •	GitHub: vertik333
 ## About myself
 A positive cheerful realist wants to become a developer. No matter how long it takes
